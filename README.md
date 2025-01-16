@@ -62,7 +62,7 @@
   </a>
   &nbsp;
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="Next.js" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/32350f75-b48e-4854-b279-784ea27916ad" alt="Next.js" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
