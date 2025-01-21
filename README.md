@@ -10,7 +10,7 @@
 ---
 
 - 🌱 **Currently Learning:** MERN Stack  
-- 📫 **Contact Me At:** officialsachinbanjara@gmail.com  
+ 
 
 ---
 
