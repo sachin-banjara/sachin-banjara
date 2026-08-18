@@ -16,7 +16,7 @@ I'm a Data Analyst interested in data analysis, cleaning, and data-driven proble
 
 <h3 align="left">Connect with me:</h3>
 
-Email: sachinbanjara2002@gmail.com
+Email: officialsachinbanjara@gmail.com
 
 <p align="left">
 <a href="https://twitter.com/sachinbanjara72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinbanjara72" height="30" width="40" /></a>
