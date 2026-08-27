@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Banjara</h1>
+<h1 align="left">Hi 👋, I'm Sachin Banjara</h1>
 <h3 align="left">Turning data into insights, one analysis at a time.</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" align="right" />
