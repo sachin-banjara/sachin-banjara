@@ -89,5 +89,3 @@ I enjoy exploring datasets, spotting trends, and solving problems through a data
 
 <hr>
 
-<!-- Snake contribution graph — requires enabling the "Snake" GitHub Action on this repo to generate the SVG -->
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/sachin-banjara/sachin-banjara/output/github-contribution-grid-snake-dark.svg)
