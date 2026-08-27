@@ -1,31 +1,33 @@
-<h1 align="left">Hi 👋, I'm Sachin Banjara</h1>
-<h3 align="left">Turning data into insights, one analysis at a time.</h3>
+<h1 align="center">Hi 👋, I'm Sachin Banjara</h1>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" align="right" />
+<br>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- About ME  --------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=false&vCenter=true&width=600&lines=Data+Analyst+%7C+MIS+Coordinator;Exploring+Data+with+Python+%26+Pandas;Turning+Numbers+into+Actionable+Insights;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
+<div>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sachin-banjara&label=Profile%20Views&color=0e75b6&style=flat" alt="sachin-banjara" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat" alt="open to collaborate" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280" align="right" />
 
-<p align="left">👋 <b>Welcome to my profile!</b></p>
+<i>Turning data into insights, one analysis at a time.</i> <br><br>
 
-<br clear="right"/>
+👋 Hi there! I'm Sachin — a Data Analyst & MIS professional who enjoys bringing order to messy data and turning it into something useful.
 
----
+I have 5+ years of combined experience across data management, MIS coordination, and process optimization, and I'm currently expanding into Python-based data analysis.
 
-## 👨‍💻 About Me
-
-I'm a **Data Analyst & MIS professional** with 5+ years of experience in data management, MIS coordination, and process optimization — now expanding into Python-based data analysis.
+A little more about me:
 
 - 🧾 Former **MIS Coordinator** at Advocate Office — managed case-file tracking, court schedules, and data validation systems
 - 📈 **Data Specialist** at Leads Power Pvt Ltd — ensured data integrity and optimized business processes
 - 📊 Skilled in **Excel, data cleaning, and reporting**
 - 🐍 Currently learning **Python, Pandas, NumPy, and PostgreSQL** to build stronger data-analysis capabilities
-- 🔎 Passionate about exploring datasets, spotting trends, and solving problems through data-driven approaches
 - ✍️ Also enjoy creative content writing alongside technical work
+
+I enjoy exploring datasets, spotting trends, and solving problems through a data-driven approach.
+
+</div>
+
+<br clear="right">
 
 ## 🌱 Currently Learning
 
@@ -35,6 +37,10 @@ I'm a **Data Analyst & MIS professional** with 5+ years of experience in data ma
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
+</br>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## 🛠️ Languages and Tools
 
@@ -59,17 +65,29 @@ I'm a **Data Analyst & MIS professional** with 5+ years of experience in data ma
   </a>
 </p>
 
+<br>
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Connect Section ---------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 ## 📫 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/sachin-banjara/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sachin-banjara" height="30" width="40" />
-  </a>
-  <a href="https://twitter.com/sachinbanjara72" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sachinbanjara72" height="30" width="40" />
-  </a>
-</p>
+<div>
+  <a href="https://www.linkedin.com/in/sachin-banjara/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/sachinbanjara72"><img src="https://img.shields.io/badge/Twitter-0A0A0A?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="mailto:officialsachinbanjara@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A0A0A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
+
+<br>
 
 <p align="center">
   <i>💡 Let's connect and collaborate on data-driven projects!</i>
 </p>
+
+<br>
+
+<hr>
+
+<!-- Snake contribution graph — requires enabling the "Snake" GitHub Action on this repo to generate the SVG -->
+![Snake animation Contribution Graph](https://raw.githubusercontent.com/sachin-banjara/sachin-banjara/output/github-contribution-grid-snake-dark.svg)
