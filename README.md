@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Banjara</h1>
 <h3 align="left">Turning data into insights, one analysis at a time.</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300" align="right" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="250" align="right" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=false&vCenter=true&width=600&lines=Data+Analyst+%7C+MIS+Coordinator;Exploring+Data+with+Python+%26+Pandas;Turning+Numbers+into+Actionable+Insights;Always+Learning%2C+Always+Growing" alt="Typing SVG" />
 
