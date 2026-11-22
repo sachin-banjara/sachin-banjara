@@ -11,15 +11,18 @@
 
 <i>Turning data into insights, one analysis at a time.</i> <br><br>
 
-👋 Hi there! I'm Sachin — a Data Analyst & MIS professional who enjoys bringing order to messy data and turning it into something useful.
+👋 Hi there! I'm Sachin — a Data Specialist & MIS professional who enjoys bringing order to messy data and turning it into something useful.
 
 I have 5+ years of combined experience across data management, MIS coordination, and process optimization, and I'm currently expanding into Python-based data analysis.
 
 A little more about me:
 
-- 🧾 Former **MIS Coordinator** at Advocate Office — managed case-file tracking, court schedules, and data validation systems
-- 📈 **Data Specialist** at Leads Power Pvt Ltd — ensured data integrity and optimized business processes
-- 📊 Skilled in **Excel, data cleaning, and reporting**
+- 📈 **Data Specialist** at Leads Power Pvt Ltd — ensured data integrity and optimized business processes. Maintained data storage and          cleaned data regularly to ensure database accuracy.
+- 🧾 **Data Operator** (Part-Time) | Leads Power (An IT Experts Company) — Entered, updated, and verified records in Excel and Google Sheets. Cleaned and organized data by removing duplicates and errors.
+- 🧾 Former **MIS Coordinator** at Advocate Office — managed 4500+ case-file tracking, court schedules, and data validation systems
+- 📊 Skilled in **👉 MS Office (Word, Excel), Google Sheets formulas & Docs
+  👉 Advanced Excel: VLOOKUP/XLOOKUP, Pivot Tables, Conditional Formatting, Data Validation, Power Query 
+**
 - 🐍 Currently learning **Python, Pandas, NumPy, and PostgreSQL** to build stronger data-analysis capabilities
 - ✍️ Also enjoy creative content writing alongside technical work
 
